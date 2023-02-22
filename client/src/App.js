@@ -7,6 +7,7 @@ import {Home, Profile, GetStarted } from './pages'
 import './App.css';
 
 function App() {
+  console.log("hii");
   return (
     <BrowserRouter>
       <div>
