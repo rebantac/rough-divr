@@ -7,7 +7,7 @@ import {Home, Profile, GetStarted } from './pages'
 import './App.css';
 
 function App() {
-  console.log("Additi")
+  console.log("Additi ")
   return (
     <BrowserRouter>
       <div>
